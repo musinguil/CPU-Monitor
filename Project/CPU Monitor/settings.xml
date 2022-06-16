@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+	<load_at_startup>0</load_at_startup>
+	<display_cpu>1</display_cpu>
+	<display_gpu>0</display_gpu>
+	<display_using>1</display_using>
+	<display_temp>1</display_temp>
+</settings>
