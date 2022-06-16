@@ -1,0 +1,1 @@
+C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\CPU Monitor.csproj;x86

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rmh2hRc7td3mnfQdXbZLlvG7fJ1ijjZlo2Evk++Puq/QJpSYB+eCa2EUQTvb7t58rIG0grxTArN5+YAQc7pyug==",
+  "dgSpecHash": "iomyXA7/GSJ5EKL6igpHvJTDllRC1x5gLwB352d/MB/3x2s8z1SX+57Wp28n2YD5RBpOGTmtTco4BOX2TzUbkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\musin\\Documents\\application_project\\cpu_temp\\CPU Monitor\\CPU Monitor\\CPU Monitor.csproj",
+  "projectFilePath": "C:\\Users\\musin\\Documents\\application_project\\CPU-Monitor\\Project\\CPU Monitor\\CPU Monitor.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.11-rel-30601-02\\microsoft.net.native.compiler.2.2.11-rel-30601-02.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.13\\microsoft.net.uwpcoreruntimesdk.2.2.13.nupkg.sha512",

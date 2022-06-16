@@ -8166,11 +8166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musin\\Documents\\application_project\\cpu_temp\\CPU Monitor\\CPU Monitor\\CPU Monitor.csproj",
+      "projectUniqueName": "C:\\Users\\musin\\Documents\\application_project\\CPU-Monitor\\Project\\CPU Monitor\\CPU Monitor.csproj",
       "projectName": "CPU Monitor",
-      "projectPath": "C:\\Users\\musin\\Documents\\application_project\\cpu_temp\\CPU Monitor\\CPU Monitor\\CPU Monitor.csproj",
+      "projectPath": "C:\\Users\\musin\\Documents\\application_project\\CPU-Monitor\\Project\\CPU Monitor\\CPU Monitor.csproj",
       "packagesPath": "C:\\Users\\musin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musin\\Documents\\application_project\\cpu_temp\\CPU Monitor\\CPU Monitor\\obj\\",
+      "outputPath": "C:\\Users\\musin\\Documents\\application_project\\CPU-Monitor\\Project\\CPU Monitor\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
