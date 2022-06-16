@@ -10,4 +10,4 @@ Création d'un utilitaire de monitoring desktop pour voir l'état des processeur
 - Choix de la fréquence de rafraichissement
 
 ## UML
-<img src="uml.jpg" alt="uml" style="float : center; height : 478px;">
+<img src="uml.jpg" alt="uml" align="center">
