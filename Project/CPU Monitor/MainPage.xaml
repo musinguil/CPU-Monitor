@@ -7,8 +7,26 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
     <Grid>
-
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <NavigationView Name="navigation_bar" 
+                        PaneDisplayMode="Top"
+                        ItemInvoked="isSettingsClicked"
+                        Grid.Column="0"
+                        Grid.Row="0">
+            <NavigationView.MenuItems>
+                <NavigationViewItem Name="main_page_menu" 
+                                    Content="Main Page"></NavigationViewItem>
+            </NavigationView.MenuItems>
+        </NavigationView>
+        <Frame Name="main_frame"
+               Grid.Column="0"
+               Grid.Row="1"></Frame>
     </Grid>
 </Page>

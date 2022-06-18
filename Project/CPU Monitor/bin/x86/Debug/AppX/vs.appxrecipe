@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>B7E2D55CD8916E485EAD8FFF53BE1819C5C6875B3257205203B9B61A2E7D6A05</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>80C31AC9FC4F89BB08228E72554DE0CF108F5C901937F2F862BDA0CB857CC67C</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>78dd6fba-668e-4a48-a759-287bdbf5841c_1.0.0.0_x86__mg8p94qxg0kh8</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>78dd6fba-668e-4a48-a759-287bdbf5841c_mg8p94qxg0kh8!App</RegisteredUserModeAppID>
     <RegisteredPackageID>78dd6fba-668e-4a48-a759-287bdbf5841c</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-06-16T13:57:35.120</Modified>
+      <Modified>2022-06-18T00:41:20.519</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\CPU Monitor.exe">
       <PackagePath>entrypoint\CPU Monitor.exe</PackagePath>
-      <Modified>2022-06-16T13:57:34.359</Modified>
+      <Modified>2022-06-18T00:41:19.733</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.13\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -49,6 +49,10 @@
     <AppxPackagedFile Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2022-06-16T06:56:30.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\settings.xml">
+      <PackagePath>settings.xml</PackagePath>
+      <Modified>2022-06-16T14:21:06.949</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -86,15 +90,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\CPU Monitor.xr.xml">
       <PackagePath>CPU Monitor.xr.xml</PackagePath>
-      <Modified>2022-06-16T13:51:24.038</Modified>
+      <Modified>2022-06-18T00:41:19.601</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-06-16T13:57:34.264</Modified>
+      <Modified>2022-06-18T00:41:19.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-06-16T13:57:34.264</Modified>
+      <Modified>2022-06-18T00:41:19.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\View\MainView.xbf">
+      <PackagePath>View\MainView.xbf</PackagePath>
+      <Modified>2022-06-18T00:41:19.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\View\SettingsView.xbf">
+      <PackagePath>View\SettingsView.xbf</PackagePath>
+      <Modified>2022-06-18T00:41:19.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -102,11 +114,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-06-16T13:51:25.321</Modified>
+      <Modified>2022-06-17T23:58:56.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\Core\CPU Monitor.exe">
       <PackagePath>CPU Monitor.exe</PackagePath>
-      <Modified>2022-06-16T13:57:35.115</Modified>
+      <Modified>2022-06-18T00:41:20.515</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -13,6 +13,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 using CPU_Monitor.Model;
+using CPU_Monitor.View;
 
 // Pour plus d'informations sur le modèle d'élément Page vierge, consultez la page https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
@@ -26,8 +27,21 @@ namespace CPU_Monitor
         public MainPage()
         {
             this.InitializeComponent();
+            this.navigation_bar.IsBackButtonVisible = NavigationViewBackButtonVisible.Collapsed;
+            this.main_frame.Navigate(typeof(MainView));
             Settings settings = new Settings();
-            settings.setDisplayTemp(false);
+        }
+        private void isSettingsClicked(NavigationView sender, NavigationViewItemInvokedEventArgs args)
+        {
+            NavigationViewItem item = args.InvokedItemContainer as NavigationViewItem;
+            if (args.IsSettingsInvoked)
+            {
+                this.main_frame.Navigate(typeof(SettingsView));
+            }
+            else if (item.Name.ToString() == "main_page_menu")
+            {
+                this.main_frame.Navigate(typeof(MainView));
+            }
         }
     }
 }

@@ -43,3 +43,13 @@ C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj
 C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\View\SettingsView.xbf
+C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj\x86\Debug\View\SettingsView.g.i.cs
+C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj\x86\Debug\View\SettingsView.g.cs
+C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj\x86\Debug\View\SettingsView.xaml
+C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj\x86\Debug\View\SettingsView.xbf
+C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\bin\x86\Debug\View\MainView.xbf
+C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj\x86\Debug\View\MainView.g.i.cs
+C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj\x86\Debug\View\MainView.g.cs
+C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj\x86\Debug\View\MainView.xaml
+C:\Users\musin\Documents\application_project\CPU-Monitor\Project\CPU Monitor\obj\x86\Debug\View\MainView.xbf

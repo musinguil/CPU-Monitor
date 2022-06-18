@@ -9,4 +9,7 @@ Assets\Wide310x150Logo.scale-200.png
 App.xbf
 CPU Monitor.xr.xml
 MainPage.xbf
+View\MainView.xbf
+View\SettingsView.xbf
 Properties\Default.rd.xml
+settings.xml
